@@ -1,0 +1,91 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740 (ID=0xfc8)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   24.21.13.9882
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\游戏素材\FBIrd\F_bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\游戏素材\FBIrd\F_bird_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\游戏素材\FBIrd\F_bird_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.113 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.226928 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 101)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: cec -> priority: 1 
+  Thread -> id: 1af0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.120514 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 0.358952 ms (FindLiveObjects: 0.041887 ms CreateObjectMapping: 0.016366 ms MarkObjects: 0.188907 ms  DeleteObjects: 0.110958 ms)
+
+GetKey:Space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.996688 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 101)
+
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.708750 ms (FindLiveObjects: 0.076561 ms CreateObjectMapping: 0.052428 ms MarkObjects: 0.414154 ms  DeleteObjects: 0.164496 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.124014 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 0.523448 ms (FindLiveObjects: 0.045215 ms CreateObjectMapping: 0.028849 ms MarkObjects: 0.310685 ms  DeleteObjects: 0.137866 ms)
+
+GetKey:Space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.029699 ms
+Font size and style overrides are only supported for dynamic fonts.
+ 
+(Filename:  Line: 101)
+
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.561175 ms (FindLiveObjects: 0.053537 ms CreateObjectMapping: 0.042164 ms MarkObjects: 0.358397 ms  DeleteObjects: 0.106243 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.691551 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 0.508469 ms (FindLiveObjects: 0.044660 ms CreateObjectMapping: 0.028017 ms MarkObjects: 0.293486 ms  DeleteObjects: 0.141750 ms)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone)打中Well6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
